@@ -1,0 +1,38 @@
+Which method receive the information of the keyboard ?
+gets
+
+Which method receive an string and changes every lowercase letter to uppercase.
+upcase
+
+How Do you write "five squared" in ruby?
+5**2
+
+Which method return the same random numbers in the same sequence on two different runs of your program?
+srand
+
+Which is the return for this line  >> puts '2'<'10'?
+false
+
+How Do you write the logical operator "and" in ruby?
+&&
+
+True or false, variables are objects?
+false
+
+Which is a sort of opposite of method push?
+pop
+
+How do you call when a method called itself?
+recursion
+
+A file is a sequence of?
+bytes
+
+String, Array, Hash, Integer are names of?
+classes
+
+Which is sign who always start a instance variable?
+@
+
+Which is sign who always start a global variable?
+$
